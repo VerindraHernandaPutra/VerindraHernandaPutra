@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me : 
-              Whatsapp  = 081249494376
               Youtube   = Verindra Hernanda Putra
               Instagram = @verindra_hp
 
