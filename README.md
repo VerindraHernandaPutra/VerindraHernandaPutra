@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VerindraHernandaPutra
 - 👀 I’m interested in Front End and Design Graphic
-- 🌱 I’m currently learning Game Dev
+- 🌱 I’m currently learning Game Dev and Advanced Database
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me : 
               Youtube   = Verindra Hernanda Putra
