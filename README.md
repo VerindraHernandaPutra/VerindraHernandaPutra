@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Verindra Hernanda Putra 👋</h1>
-<h3 align="center">A Software Developer & AI Enthusiast from Malang, Indonesia 🇮🇩</h3>
+<h3 align="center">A Software Developer & AI Enthusiast from Trenggalek, Indonesia 🇮🇩</h3>
 
 <p align="center">
   <a href="https://verindrahernandaputra.github.io/" target="_blank">
