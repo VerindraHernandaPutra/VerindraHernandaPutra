@@ -6,7 +6,7 @@
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
   <a href="https://verindrahernandaputra.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FB&center=true&vCenter=true&width=600&lines=Software+Developer+%26+AI+Enthusiast;Android+%7C+Deep+Learning+%7C+Web+Development;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FB&center=true&vCenter=true&width=600&lines=Software+Developer+%26+AI+Enthusiast;Deep+Learning+%7C+Web+Development;Turning+ideas+into+enterprise+solution" alt="Typing SVG" />
   </a>
 </p>
 
@@ -73,15 +73,11 @@ A technology professional with **5+ years of hands-on experience** across softwa
 
 ---
 
-## 💼 Featured Projects
+## 💡 My Motivation Quote
 
-> Replace these with your best work — recruiters scan this section first. Keep each to one tight sentence on *what it does* and *what you used*.
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **🤖 Project Name** | One-line impact statement — what problem it solves and the result. | `Python` `TensorFlow` | [Repo](#) · [Demo](#) |
-| **📱 Project Name** | One-line impact statement for your Android app. | `Kotlin` `Jetpack` | [Repo](#) · [Demo](#) |
-| **🌐 Project Name** | One-line impact statement for a web application. | `JavaScript` `HTML/CSS` | [Repo](#) · [Demo](#) |
+<p align="center">
+  <i>✨ "Be 1% — Not Average. Embrace the Discipline, Focus, and Result." ✨</i>
+</p>
 
 ---
 
